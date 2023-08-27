@@ -29,3 +29,6 @@ The scrolling attribute controls whether scrollbars are displayed within the ifr
 
 * Here in content.html file i have created content for iframe-1 and I have set target to frane-2
 * In index.html I have created frames with some width and height.
+
+# Hosted link
+https://nikhitha5511.github.io/TEST2/
